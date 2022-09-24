@@ -1,6 +1,8 @@
 # Android_Json_From_Nested_Object
 Fetching Data from Nested Object and then sowing onto the UI using RecyclerView
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Dependency
 ```
 implementation 'com.squareup.retrofit2:retrofit:2.9.0'
@@ -9,9 +11,10 @@ implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
 
 # App Highlight
 
-<img src="app_images/Retrofit Json From Nested Object Code.png" /><br>
+![Retrofit Json From Nested Object App1](https://user-images.githubusercontent.com/74413402/192093657-c18dfbca-199d-440a-9aa4-75ec2e86f500.png)
+![Retrofit Json From Nested Object App2](https://user-images.githubusercontent.com/74413402/192093659-34b34efa-5e98-4cc4-a6f3-70d7f5d15c53.png)
+![Retrofit Json From Nested Object Code](https://user-images.githubusercontent.com/74413402/192093664-c12d0a25-8418-4b06-a17e-7f3432db8eb8.png)
 
-<img src="app_images/Retrofit Json From Nested Object App1.png" width="300" /> <img src="app_images/Retrofit Json From Nested Object App2.png" width="300" />
 
 
 # Code
